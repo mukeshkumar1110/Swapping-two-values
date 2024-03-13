@@ -18,8 +18,17 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+```
+Surya=int(input())
+Vijay=int(input())
+c=Surya
+Surya=Vijay
+Vijay=c
+print("Swapped values are:",Surya,Vijay)
+```
 
-
+## OUTPUT
+![alt text](image.png)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
