@@ -19,12 +19,18 @@ Print both the values it would be interchanged
 End the program
 ## PROGRAM:
 ```
+Program to swap two values.
+
+Developed by: MUKESH KUMAR S
+RegisterNumber:212223240099
+
 Surya=int(input())
 Vijay=int(input())
 c=Surya
 Surya=Vijay
 Vijay=c
 print("Swapped values are:",Surya,Vijay)
+
 ```
 
 ## OUTPUT
